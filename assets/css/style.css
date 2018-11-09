@@ -1,0 +1,9 @@
+.gifCard {
+    max-width: 400px;
+    float: left;
+    margin: 10px;
+}
+
+.row {
+    margin-bottom: 10px;
+}
