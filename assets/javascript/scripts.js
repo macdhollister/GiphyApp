@@ -1,17 +1,3 @@
-// let test = ["test1","test2"];
-// localStorage.clear();
-// localStorage.setItem("test_stuff", JSON.stringify(test));
-
-// let test2 = JSON.parse(localStorage.getItem("test_stuff"));
-
-// console.log(test2);
-// console.log(Array.isArray(test2));
-
-// $(document).on("click", ".test", function() {
-//     alert("test");
-// })
-
-
 $(document).ready(function() {
     let shows = ["The Office", "Gotham", "Vikings"];
 
